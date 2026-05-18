@@ -7,3 +7,7 @@ google-auth-httplib2
 google-auth-oauthlib
 nest_asyncio
 aiohttp>=3.9.0
+beautifulsoup4
+requests
+fake-useragent
+python-dotenv
